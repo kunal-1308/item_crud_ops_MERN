@@ -1,8 +1,8 @@
-# MERN_A_to_Z
+# item_crud_ops_server
 
 ### To Run the app (server)
 
-##### Make sure you are in - MERN_A_to_Z/ directory & type the following command
+##### Make sure you are in - item_crud_ops_server/ directory & type the following command
 
 ```sh
 $ npm install
